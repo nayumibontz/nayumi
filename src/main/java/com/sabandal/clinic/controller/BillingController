@@ -1,0 +1,16 @@
+package controller;
+
+@RestController
+@CrossOrigin("https://localhost:4200")
+public class BillingController {
+    @Autowired
+    PatientRepo patientRepo;
+
+
+
+
+
+
+
+
+}

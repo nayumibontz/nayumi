@@ -1,0 +1,18 @@
+package controller;
+
+import domain.*;
+import org.springframework.beans.factory.annotation.Autowired;
+@RestController
+@CrossOrigin("https://localhost:4200")
+public class ToothController {
+    @Autowired
+    PatientRepo patientRepo;
+
+
+
+
+
+
+
+
+}
